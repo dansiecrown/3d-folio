@@ -1,4 +1,5 @@
 import logo from "./logo.svg";
+import favicon from "./favicon.png";
 import backend from "./backend.png";
 import creator from "./creator.png";
 import mobile from "./mobile.png";
@@ -20,14 +21,22 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import photo from "./tech/photoshop.png";
+import python from "./tech/python.png";
+
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
+import calc from "./calc.png";
+import crowns from "./deecrowns.jpg";
+import gitView from "./git-view.png";
+import huddle from "./huddle.png";
+import metabnb from "./metabnb.jpg";
+import phonie from "./phonie.png";
+
 import tripguide from "./tripguide.png";
 
 export {
@@ -56,7 +65,14 @@ export {
   shopify,
   starbucks,
   tesla,
-  carrent,
-  jobit,
+  calc,
+  crowns,
+  gitView,
+  huddle,
+  metabnb,
+  phonie,
   tripguide,
+  python,
+  photo,
+  favicon,
 };

@@ -3,14 +3,13 @@ import { Link } from 'react-router-dom'
 
 import { styles } from '../styles'
 import { navLinks } from '../constants'
-import { logo, menu, close } from '../assets'
+import { favicon, menu, close } from '../assets'
 
 const Navbar = () => {
   const [active, setActive] = useState("")
   const [toggle, setToggle] = useState(false)
   return (
-    <nav className={`
-      ${styles.paddingX} w-full flex items-center py-5 fixed top-0 z-20 bg-primary
+    <nav className={`${styles.paddingX} w-full flex items-center py-5 fixed top-0 z-20 bg-primary
     `}>
       <div className='w-full flex justify-between items-center max-w-4xl mx-auto'>
         <Link to='/' className='flex items-center gap-2'
@@ -18,8 +17,8 @@ const Navbar = () => {
             setActive("");
             window.scrollTo(0, 0)
           }}>
-          <img src={logo} alt="logo" className="w-9 h-9 object-contain" />
-          <p className='text-white text-[18px] font-bold cursor-pointer flex'>Daniel &nbsp; <span className='sm:block hidden'>Omoregbe</span></p>
+          <img src={favicon} alt="logo" className="w-9 h-9 object-contain" />
+          <p className={`text-white text-[18px] font-bold cursor-pointer flex `} style={{ fontFamily: 'Pacifico' }}>Daniel &nbsp; <span className='sm:block hidden' style={{ fontFamily: 'Pacifico' }}>Omoregbe</span></p>
         </Link>
 
         <ul className='list-none hidden sm:flex flex-row gap-10'>
