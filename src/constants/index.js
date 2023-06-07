@@ -110,7 +110,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Cafe Manager",
+    title: "Lead Tech Support",
     company_name: "SOJ Concepts",
     icon: starbucks,
     iconBg: "#383E56",
@@ -128,7 +128,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "Jan 2020 - Feb 2021",
     points: [
-      "convert product design prototpes to live codes",
+      "Convert product design prototypes to live codes",
       "Collaborate with team members on ideas to make application meet customer needs.",
       "Work on Virtual Reality Projects catching the eyes of about 5+ investors",
       "Helped in creating a visual and brand image for the company.",
@@ -145,7 +145,7 @@ const experiences = [
     points: [
       "Supervised 19 staff members and aided them in carrying out their roles",
       "Ensure smooth registration process of eight Thousand plus candidates",
-      "Troubleshot and resolved system hardware and software problems twice weekly",
+      "Troubleshoot and resolved system hardware and software problems twice weekly",
       "Conferred with the 19 users, and conducted computer diagnostics to investigate and resolve problems and to provide technical assistance and support for all available 300 systems.",
     ],
   },

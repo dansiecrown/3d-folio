@@ -54,7 +54,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[15px] leading-[28px] max-w-3xl "
       >
-        I an a skilled software developer in experience in Typescript, Javascript and Python. I also have experience using frameworks like React, Node.js, Vue.js, Three.js, Django among others. I'm a quick learner and collaborate closely with clients to create efficient, scalable and user-friendly solutions that solve real-world problems. Let's work togerther to bring your ideas to life!
+        I an a skilled software developer with experience in Typescript, Javascript and Python. I also have experience using frameworks like React, Node.js, Vue.js, Three.js, Django among others. I'm a quick learner and collaborate closely with clients to create efficient, scalable and user-friendly solutions that solve real-world problems. Let's work togerther to bring your ideas to life!
 
       </motion.p>
       <div className="mt-20 flex flex-wrap gap-10">
