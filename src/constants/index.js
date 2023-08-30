@@ -167,7 +167,7 @@ const experiences = [
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+      "I thought it was impossible to make a website as beautiful as our product, but Dan proved me wrong.",
     name: "Sara Lee",
     designation: "CFO",
     company: "Acme Co",
@@ -175,7 +175,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
+      "I've never met a web developer who truly cares about their clients' success like Dan does.",
     name: "Chris Brown",
     designation: "COO",
     company: "DEF Corp",
@@ -183,7 +183,7 @@ const testimonials = [
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+      "After Dan optimized our website, our traffic increased by 50%. We can't thank them enough!",
     name: "Lisa Wang",
     designation: "CTO",
     company: "456 Enterprises",
@@ -207,7 +207,7 @@ const projects = [
       },
     ],
     image: calc,
-    source_code_link: "https://github.com/",
+    source_code_link: "hhttps://github.com/dansiecrown/dee-calc",
   },
   {
     name: "Crowns",
@@ -228,7 +228,7 @@ const projects = [
       },
     ],
     image: crowns,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/dansiecrown/crowns",
   },
   {
     name: "Git View",
@@ -249,7 +249,7 @@ const projects = [
       },
     ],
     image: gitView,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/dansiecrown/GitView-cli",
   },
   {
     name: "Huddle",
@@ -270,7 +270,7 @@ const projects = [
       },
     ],
     image: huddle,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/dansiecrown/huddle",
   },
   {
     name: "Meta BnB",
@@ -287,7 +287,7 @@ const projects = [
       },
     ],
     image: metabnb,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/dansiecrown/metabnb",
   },
   {
     name: "Phonie App",
@@ -308,7 +308,7 @@ const projects = [
       },
     ],
     image: phonie,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/dansiecrown/phonie-app",
   },
 ];
 
